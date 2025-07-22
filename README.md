@@ -1,1 +1,6 @@
-# how-print-roblox
+# How Print?:
+
+print("Helo, World")
+warn("Hello, Warn")
+error("Hello, Error")
+info("Hello, Info")
